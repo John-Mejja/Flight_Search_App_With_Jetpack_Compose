@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Flight Search</string>
+
+<!--    Flight search bar -->
+    <string name="search">Search</string>
+    <string name="back">Back</string>
+    <string name="airport_iata_code">%s - </string>
+    <string name="search_bar_placeholder">Search for Airport name or IATA Code</string>
+    <string name="clear">Clear</string>
+
+<!--    FlightRoute file-->
+    <string name="departure">DEPARTURE</string>
+    <string name="arrival">ARRIVAL</string>
+    <string name="favorite_icon_content_description">Favorite</string>
+
+    <string name="favorite_route">Favorite Route</string>
+    <string name="routes_from">Flight routes from %s.</string>
+    <string name="plane_capacity">Plane capacity: %d.</string>
+    <string name="menu">Menu</string>
+
+    <string name="home_title">Home</string>
+    <string name="query_title">Search</string>
+
+</resources>
