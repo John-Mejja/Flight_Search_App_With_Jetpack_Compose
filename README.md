@@ -19,12 +19,12 @@ The user can also save airport route as favorite, which is displayed on the app'
 * **Kotlin Coroutine :** The app uses coroutine to asynchronously execute some task in the background, improving UI responsiveness.
 * **Kotlin Flows :** The app uses Flow, a kotlin language feature that searves as a reactive programming framework, to update Favorite Books from the database.
 * **Jetpack Compose :** The app uses Jetpack compose, a modern toolkit for building Android UIs, to create the app's UI.
-
+* 
 ## Screenshots
-![Flight Search App homepage that displays favorite routes.](/screenshots/image_1.jpg)
-![Flight Search App search screen that displays all available airport when there is no query input.](/screenshots/image_2.jpg)
-![Flight Search App search screen that displays autocompletion suggestions as the users inputs query.](/screenshots/image_3.jpg)
-![Flight Search App search screen that displays all the routes according the user's query. ](/screenshots/image_4.jpg)
+<img src="/screenshots/image_1.jpg" alt="Flight Search App homepage that displays favorite routes." width="200">
+<img src="/screenshots/image_2.jpg" alt="Flight Search App search screen that displays all available airport when there is no query input." width="200">
+<img src="/screenshots/image_3.jpg" alt="Flight Search App search screen that displays autocompletion suggestions as the users inputs query." width="200">
+<img src="/screenshots/image_4.jpg" alt="Flight Search App search screen that displays all the routes according the user's query." width="200">
 
 ## Installation
 To install the app, clone the repository and open the project in Android Studio. The app can be run on an emulator or a physical device.
